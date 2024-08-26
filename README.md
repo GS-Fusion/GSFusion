@@ -3,7 +3,7 @@
 <h3 align="center"> Jiaxin Wei and Stefan Leutenegger </h3>
 
 <h3 align="center">
-  <a href="">Paper</a> | <a href="">Video</a> | <a href="">Project Page</a>
+  <a href="https://arxiv.org/abs/2408.12677">Paper</a> | <a href="">Video</a> | <a href="">Project Page</a>
 </h3>
 
 <p align="center">
