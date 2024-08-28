@@ -3,7 +3,7 @@
 <h3 align="center"> Jiaxin Wei and Stefan Leutenegger </h3>
 
 <h3 align="center">
-  <a href="">Paper</a> | <a href="">Video</a> | <a href="">Project Page</a>
+  <a href="https://arxiv.org/abs/2408.12677">Paper</a> | <a href="">Video</a> | <a href="https://gs-fusion.github.io/">Project Page</a>
 </h3>
 
 <p align="center">
@@ -30,4 +30,13 @@ We develop an automatic evaluation system for GSFusion and provide several pre-t
 
 If you find our paper and code useful, please cite us:
 ```bibtex
+@misc{wei2024gsfusiononlinergbdmapping,
+      title={GSFusion: Online RGB-D Mapping Where Gaussian Splatting Meets TSDF Fusion}, 
+      author={Jiaxin Wei and Stefan Leutenegger},
+      year={2024},
+      eprint={2408.12677},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2408.12677}, 
+}
 ```
