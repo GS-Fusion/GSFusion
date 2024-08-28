@@ -18,7 +18,7 @@ Abstract: *Traditional volumetric fusion algorithms preserve the spatial structu
 
 ## Note
 
-This repository contains the code used in the paper "GSFusion: Online RGB-D Mapping Where Gaussian Splatting Meets TSDF Fusion". The code will be released upon acceptance of the paper. The final version will be merged into and maintained as part of the latest [Supereight2](https://bitbucket.org/smartroboticslab/supereight2/src/master/) repository.
+This repository contains the code used in the paper "GSFusion: Online RGB-D Mapping Where Gaussian Splatting Meets TSDF Fusion". The code will be released upon acceptance of the paper.
 
 
 ## Evaluation
